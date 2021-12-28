@@ -15,7 +15,7 @@ namespace AgroProductProject.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description pages.";
+            ViewBag.Message = "Your application description pages here";
 
             return View();
         }
